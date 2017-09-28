@@ -17,6 +17,6 @@ public class Rectangle {
         double area;
         area = myrectangle.area();
 
-        System.out.println("The required area of the rectangle is" + area);
+        System.out.println("The required area of the rectangle is " + area);
     }
 }
